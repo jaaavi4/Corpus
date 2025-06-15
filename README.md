@@ -9,3 +9,5 @@ Aquí se muestran las imágenes subidas:
 ![ej4](SaludoFormal.png)
 ![ej5](mes.png)
 ![ej6](nihao.png)
+![ej7](gracias.png)
+![ej8](latam.png)
