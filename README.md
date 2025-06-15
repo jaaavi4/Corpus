@@ -11,3 +11,5 @@ Aquí se muestran las imágenes subidas:
 ![ej6](nihao.png)
 ![ej7](gracias.png)
 ![ej8](latam.png)
+![ej9](enelcolegio.png)
+![ej10](comida.png)
