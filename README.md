@@ -7,3 +7,5 @@ Aquí se muestran las imágenes subidas:
 ![ej2](vocabulario.png)
 ![ej3](p145.png)
 ![ej4](SaludoFormal.png)
+![ej5](mes.png)
+![ej6](nihao.png)
